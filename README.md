@@ -1,4 +1,4 @@
-# Conference Call
+# Video chat
 A video chat implementation using WebRTC, Socket.io and Node.js.
 
 
