@@ -1,7 +1,7 @@
 {
-  "name": "livestream-server",
+  "name": "nodejs-video-chat",
   "version": "0.0.1",
-  "description": "A conference call implementation using WebRTC, Socket.io and Node.js.",
+  "description": "Videochating app, created using WebRTC, Socket.io and Node.js.",
   "main": "src/app.js",
   "dependencies": {
     "express": "^4.17.3",
@@ -24,7 +24,7 @@
     "LiveStream",
     "Server"
   ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amirsanni/livestream-server/issues"
